@@ -1,7 +1,13 @@
-This project is 
+This project is an animated website template.       
 
-It uses 
+It uses animated onscroll animations for different sections and is based on Tailwind CSS for Javascript. 
 
-It can be used as an example of 
 
-- 
+It can be used as a 
+
+- spa website
+
+This is from Section 8 - Udemy 20 Javascript projects
+
+
+NOTE: The form is not active/ working 
